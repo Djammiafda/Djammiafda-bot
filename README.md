@@ -1,2 +1,0 @@
-# Djammiafda-bot
-My bot
